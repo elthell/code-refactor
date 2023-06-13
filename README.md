@@ -10,9 +10,7 @@ N/A
 
 ## Usage
 
-Deployment:
-
-https://elthell.github.io/code-refactor/
+Deployment: https://elthell.github.io/code-refactor/
 
 Preview:
 
